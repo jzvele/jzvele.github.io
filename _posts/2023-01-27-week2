@@ -1,0 +1,10 @@
+---
+layout: post
+title: Week 2
+---
+
+Manually coding this amount of data is time-consuming, but the ground truth has to be accurate. Each message from a team member is coded according to dimension and sentiment. For example, the message "I think it was the gallery or the bank" would be gallery: maybe yes and bank: maybe yes. The possible sentiment codings are yes, no, maybe yes, maybe no, and x for neutral. We've decided that questions and messages conveying agreement with a previous message should be coded as neutral, unless the agreement is something like "yes, I have that information too." 
+
+The line between a yes and a maybe yes is unavoidably fine, and our model will probably make frequent mistakes there, but at the moment we're not aiming for something fine-tuned.
+
+My research partner has significantly more experience with machine learning than I do, so I am following his lead there while trying to absorb as much as possible. The other side of this project is designing a website to host a future experiment using this model, where participants can chat with each other while the model analyzes their messages and generates interventions. I know more about web development and user interface design, so that's where I'm taking point. At the moment, I'm working on prototyping a few different versions of the front-end in Figma. 
