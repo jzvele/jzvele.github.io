@@ -18,8 +18,8 @@ Christoph Riedl is an associate professor for Information Systems and Network Sc
 
 The goal of our project is to create a natural language processing agent to analyze messages within a team of humans and generate interventions to improve the team's collective intelligence. A previous study by Christoph Riedl and Samuel Westby indicates that humans are not very effective at integrating or accurately weighing information provided by teammates, and that these shortcomings are predictive of team performance. The NLP agent uses communication between team members to ascertain the beliefs of the human team members, generating a theory-of-mind model. It uses this model to alert the human team members to information discrepancies and gaps in communication.
 
-<!-- [My Final Report](files/finalreport.pdf)
- -->
+[My Final Report](files/NLP%20for%20Human%20Collaboration.pdf)
+
 ## My Blog
 
 [My Blog](blog.html)
