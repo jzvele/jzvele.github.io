@@ -20,7 +20,7 @@ The goal of our project is to create a natural language processing agent to anal
 
 <!-- [My Final Report](files/finalreport.pdf)
  -->
-<!-- ## My Blog
+## My Blog
 
 [My Blog](blog.html)
- -->
+
