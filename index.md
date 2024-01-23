@@ -8,7 +8,7 @@ title: DREAM Project Site
 
 ## About Me
 
-My name is Josie and I am an ALIGN MSCS student expecting to graduate next year. I studied communication theory, English, and philosophy as an undergraduate student and I enjoy interdisciplinary research projects.
+My name is Josie and I am an ALIGN MSCS student expecting to graduate in 2024. I studied communication theory, English, and philosophy as an undergraduate student and I enjoy interdisciplinary research projects.
 
 ## About My Advisor
 
